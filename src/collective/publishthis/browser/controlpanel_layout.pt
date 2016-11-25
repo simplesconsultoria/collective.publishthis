@@ -25,6 +25,15 @@
         <div id="layout-contents">
             <span tal:replace="structure view/contents" />
         </div>
+
+        <div id='bookmarklet'
+          i18n:domain="collective.publishthis">
+          <label i18n:translate="">Bookmarklet</label>
+          <span class="formHelp" i18n:translate="">Drag the bookmarklet below to your bookmarks bar. Then, when you’re on a page you want to share, click at the bookmark.</span>
+          <a tal:attributes="href view/bookmarklet">
+            <span i18n:translate="" tal:omit-tag="">Publish at</span> <span tal:replace="view/title" />
+          </a>
+        </div>
     </div>
 
 </div>
