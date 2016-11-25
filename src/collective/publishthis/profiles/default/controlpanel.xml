@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<object name="portal_controlpanel"
+    xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+    i18n:domain="collective.publishthis"
+    purge="False">
+  <configlet title="Publish This"
+      action_id="publishthis"
+      appId="collective.publishthis"
+      category="Products"
+      condition_expr=""
+      url_expr="string:${portal_url}/@@publishthis-settings"
+      icon_expr="string:${portal_url}/++resource++collective.publishthis/publishthis-icon.png"
+      visible="True"
+      i18n:attributes="title">
+    <permission>collective.publishthis: Setup</permission>
+  </configlet>
+</object>

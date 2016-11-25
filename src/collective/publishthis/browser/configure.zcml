@@ -1,0 +1,18 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser">
+
+  <browser:page
+      name="publishthis-settings"
+      for="Products.CMFPlone.interfaces.IPloneSiteRoot"
+      class=".controlpanel.PackageSettingsControlPanel"
+      permission="collective.publishthis.Setup"
+      />
+
+  <browser:resourceDirectory
+      name="collective.publishthis"
+      directory="static"
+      layer="collective.publishthis.interfaces.IPublishThisLayer"
+      />
+
+</configure>
