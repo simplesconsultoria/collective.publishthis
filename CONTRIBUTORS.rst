@@ -6,6 +6,6 @@ Share and Enjoy
 - Rodrigo Ferreira de Souza
 - Hector Velarde
 
-You can find an updated list of package contributors on `GitHub <https://github.com/collective/collective.publishthis/contributors>`_.
+You can find an updated list of package contributors on `GitHub <https://github.com/simplesconsultoria/collective.publishthis/contributors>`_.
 
 Development sponsored by `CartaCapital <http://www.cartacapital.com.br/>`_.

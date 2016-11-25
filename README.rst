@@ -15,17 +15,17 @@ Mostly Harmless
 .. image:: http://img.shields.io/pypi/v/collective.publishthis.svg
    :target: https://pypi.python.org/pypi/collective.publishthis
 
-.. image:: https://img.shields.io/travis/collective/collective.publishthis/master.svg
-    :target: http://travis-ci.org/collective/collective.publishthis
+.. image:: https://img.shields.io/travis/simplesconsultoria/collective.publishthis/master.svg
+    :target: http://travis-ci.org/simplesconsultoria/collective.publishthis
 
-.. image:: https://img.shields.io/coveralls/collective/collective.publishthis/master.svg
-    :target: https://coveralls.io/r/collective/collective.publishthis
+.. image:: https://img.shields.io/coveralls/simplesconsultoria/collective.publishthis/master.svg
+    :target: https://coveralls.io/github/simplesconsultoria/collective.publishthis
 
 These are some sites using ``collective.publishthis``:
 
 * `CartaCapital <http://www.cartacapital.com.br/>`_ (BR)
 
-Got an idea? Found a bug? Let us know by `opening a support ticket <https://github.com/collective/collective.publishthis/issues>`_.
+Got an idea? Found a bug? Let us know by `opening a support ticket <https://github.com/simplesconsultoria/collective.publishthis/issues>`_.
 
 Don't Panic
 ===========
